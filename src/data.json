@@ -1,0 +1,80 @@
+{
+    "product": 
+    [
+        {
+            "id": 1,
+            "imagelink" : "/bag.jpeg",
+            "price" : "₹ 600",
+            "actulprice" : "15%off",
+            "imagename":"Bag for girls",
+            "starratingValue":"3"
+        },
+        {
+            "id": 2,
+            "imagelink" : "/bag1.jpg",
+            "price" : "&#x20B9 500",
+            "actulprice" : "10%off",
+            "imagename":"Bag for kids",
+            "starratingValue":"3"
+        },
+        {
+            "id": 3,
+            "imagelink" : "/home.jpg",
+            "price" : " &#x20B9 1000",
+            "actulprice" : "20%off",
+            "imagename":"Bag for Ladies",
+            "starratingValue":"3"
+        },
+        {
+            "id":4,
+            "imagelink" : "/maf.jpg",
+            "price" : "&#x20B9 300",
+            "actulprice" : "5%off",
+            "imagename":"stylesh earrings",
+            "starratingValue":"3"
+        },
+        {
+            "id":5,
+            "imagelink" : "/mop.jpg",
+            "price" : "&#x20B9 250",
+            "actulprice" : "30%off",
+            "imagename":"Traditional earrings",
+            "starratingValue":"3"
+        },
+        {
+            "id":6,
+            "imagelink" : "/frok.jpeg",
+            "price" : "&#x20B9 600",
+            "actulprice" : "30%off",
+            "imagename":"Studs",
+            "starratingValue":"3"
+        },
+        {
+            "id":7,
+            "imagelink" : "/shrt.jpg",
+            "price" : "&#x20B9 1000",
+            "actulprice" : "50%off",
+            "imagename":"Butiful frok for kids",
+            "status":"upcoming",
+            "starratingValue":"3"
+        },
+        {
+            "id":8,
+            "imagelink" : "/watch.jpeg",
+            "price" : "&#x20B9 600",
+            "actulprice" : "40%off",
+            "imagename":"Butiful frok for kids",
+            "status":"missed",
+            "starratingValue":"3"
+        },
+        {
+            "id":9,
+            "imagelink" : "/wach1.jpg",
+            "price" : "&#x20B9 600",
+            "actulprice" : "25%off",
+            "imagename":"Chilren ware",
+            "status":"missed",
+            "starratingValue":"3"
+        }
+    ]
+}
